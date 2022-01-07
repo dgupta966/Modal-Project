@@ -1,0 +1,404 @@
+{
+  "status": true,
+  "data": {
+    "therapeutic": {
+      "data": [
+        {
+          "logo": "defaultImages/startup.png",
+          "id": 110,
+          "name": "ADHD",
+          "urlslug": "therapeutic-focus/digital-health-startups-in-adhd"
+        },
+        {
+          "logo": "defaultImages/startup.png",
+          "id": 37,
+          "name": "Allergies",
+          "urlslug": "therapeutic-focus/digital-health-startups-in-allergies"
+        },
+        {
+          "logo": "defaultImages/startup.png",
+          "id": 83,
+          "name": "Aphasia",
+          "urlslug": "therapeutic-focus/digital-health-startups-in-aphasia"
+        },
+        {
+          "logo": "defaultImages/startup.png",
+          "id": 108,
+          "name": "Atrial Fibrillation",
+          "urlslug": "therapeutic-focus/digital-health-startups-in-atrial-fibrillation"
+        },
+        {
+          "logo": "defaultImages/startup.png",
+          "id": 1,
+          "name": "Audiology",
+          "urlslug": "therapeutic-focus/digital-health-startups-in-audiology"
+        },
+        {
+          "logo": "defaultImages/startup.png",
+          "id": 59,
+          "name": "Autoimmune Diseases",
+          "urlslug": "therapeutic-focus/digital-health-startups-in-autoimmune-diseases"
+        },
+        {
+          "logo": "defaultImages/startup.png",
+          "id": 2,
+          "name": "Cardiovascular Diseases",
+          "urlslug": "therapeutic-focus/digital-health-startups-in-cardiovascular-diseases"
+        },
+        {
+          "logo": "defaultImages/startup.png",
+          "id": 3,
+          "name": "Chronic Diseases",
+          "urlslug": "therapeutic-focus/digital-health-startups-in-chronic-diseases"
+        },
+        {
+          "logo": "defaultImages/startup.png",
+          "id": 46,
+          "name": "Coronary Artery Disease",
+          "urlslug": "therapeutic-focus/digital-health-startups-in-coronary-artery-disease"
+        },
+        {
+          "logo": "defaultImages/startup.png",
+          "id": 79,
+          "name": "Dentistry",
+          "urlslug": "therapeutic-focus/digital-health-startups-in-dentistry"
+        },
+        {
+          "logo": "defaultImages/startup.png",
+          "id": 4,
+          "name": "Dermatology",
+          "urlslug": "therapeutic-focus/digital-health-startups-in-dermatology"
+        },
+        {
+          "logo": "defaultImages/startup.png",
+          "id": 85,
+          "name": "Developmental Disorders",
+          "urlslug": "therapeutic-focus/digital-health-startups-in-developmental-disorders"
+        },
+        {
+          "logo": "defaultImages/startup.png",
+          "id": 5,
+          "name": "Diabetes",
+          "urlslug": "therapeutic-focus/digital-health-startups-in-diabetes"
+        },
+        {
+          "logo": "defaultImages/startup.png",
+          "id": 27,
+          "name": "Disease Agnostic",
+          "urlslug": "therapeutic-focus/digital-health-startups-in-disease-agnostic"
+        },
+        {
+          "logo": "defaultImages/startup.png",
+          "id": 6,
+          "name": "ENT",
+          "urlslug": "therapeutic-focus/digital-health-startups-in-ent"
+        },
+        {
+          "logo": "defaultImages/startup.png",
+          "id": 28,
+          "name": "Fertility",
+          "urlslug": "therapeutic-focus/digital-health-startups-in-fertility"
+        },
+        {
+          "logo": "defaultImages/startup.png",
+          "id": 14,
+          "name": "Gastroenterology",
+          "urlslug": "therapeutic-focus/digital-health-startups-in-gastroenterology"
+        },
+        {
+          "logo": "defaultImages/startup.png",
+          "id": 20,
+          "name": "Geriatrics",
+          "urlslug": "therapeutic-focus/digital-health-startups-in-geriatrics"
+        },
+        {
+          "logo": "defaultImages/startup.png",
+          "id": 19,
+          "name": "Gynaecology",
+          "urlslug": "therapeutic-focus/digital-health-startups-in-gynaecology"
+        },
+        {
+          "logo": "defaultImages/startup.png",
+          "id": 29,
+          "name": "Heart Failure",
+          "urlslug": "therapeutic-focus/digital-health-startups-in-heart-failure"
+        },
+        {
+          "logo": "defaultImages/startup.png",
+          "id": 82,
+          "name": "Hematology",
+          "urlslug": "therapeutic-focus/digital-health-startups-in-hematology"
+        },
+        {
+          "logo": "defaultImages/startup.png",
+          "id": 7,
+          "name": "Hepatology",
+          "urlslug": "therapeutic-focus/digital-health-startups-in-hepatology"
+        },
+        {
+          "logo": "defaultImages/startup.png",
+          "id": 86,
+          "name": "Hereditary Disorders",
+          "urlslug": "therapeutic-focus/digital-health-startups-in-hereditary-disorders"
+        },
+        {
+          "logo": "defaultImages/startup.png",
+          "id": 30,
+          "name": "Hypertension",
+          "urlslug": "therapeutic-focus/digital-health-startups-in-hypertension"
+        },
+        {
+          "logo": "defaultImages/startup.png",
+          "id": 42,
+          "name": "Immunology",
+          "urlslug": "therapeutic-focus/digital-health-startups-in-immunology"
+        },
+        {
+          "logo": "defaultImages/startup.png",
+          "id": 90,
+          "name": "Impairment",
+          "urlslug": "therapeutic-focus/digital-health-startups-in-impairment"
+        },
+        {
+          "logo": "defaultImages/startup.png",
+          "id": 16,
+          "name": "Infectious Diseases",
+          "urlslug": "therapeutic-focus/digital-health-startups-in-infectious-diseases"
+        },
+        {
+          "logo": "defaultImages/startup.png",
+          "id": 89,
+          "name": "Inflammatory Bowel Disease",
+          "urlslug": "therapeutic-focus/digital-health-startups-in-inflammatory-bowel-disease"
+        },
+        {
+          "logo": "defaultImages/startup.png",
+          "id": 23,
+          "name": "Mens Health",
+          "urlslug": "therapeutic-focus/digital-health-startups-in-mens-health"
+        },
+        {
+          "logo": "defaultImages/startup.png",
+          "id": 11,
+          "name": "Mental Health",
+          "urlslug": "therapeutic-focus/digital-health-startups-in-mental-health"
+        },
+        {
+          "logo": "defaultImages/startup.png",
+          "id": 12,
+          "name": "Metabolic Diseases",
+          "urlslug": "therapeutic-focus/digital-health-startups-in-metabolic-diseases"
+        },
+        {
+          "logo": "defaultImages/startup.png",
+          "id": 41,
+          "name": "Migraine",
+          "urlslug": "therapeutic-focus/digital-health-startups-in-migraine"
+        },
+        {
+          "logo": "defaultImages/startup.png",
+          "id": 32,
+          "name": "Musculoskeletal",
+          "urlslug": "therapeutic-focus/digital-health-startups-in-musculoskeletal"
+        },
+        {
+          "logo": "defaultImages/startup.png",
+          "id": 84,
+          "name": "Nausea",
+          "urlslug": "therapeutic-focus/digital-health-startups-in-nausea"
+        },
+        {
+          "logo": "defaultImages/startup.png",
+          "id": 13,
+          "name": "Nephrology",
+          "urlslug": "therapeutic-focus/digital-health-startups-in-nephrology"
+        },
+        {
+          "logo": "defaultImages/startup.png",
+          "id": 10,
+          "name": "Neurology",
+          "urlslug": "therapeutic-focus/digital-health-startups-in-neurology"
+        },
+        {
+          "logo": "defaultImages/startup.png",
+          "id": 26,
+          "name": "Nutrition",
+          "urlslug": "therapeutic-focus/digital-health-startups-in-nutrition"
+        },
+        {
+          "logo": "defaultImages/startup.png",
+          "id": 109,
+          "name": "Obstetrics",
+          "urlslug": "therapeutic-focus/digital-health-startups-in-obstetrics"
+        },
+        {
+          "logo": "defaultImages/startup.png",
+          "id": 8,
+          "name": "Oncology",
+          "urlslug": "therapeutic-focus/digital-health-startups-in-oncology"
+        },
+        {
+          "logo": "defaultImages/startup.png",
+          "id": 17,
+          "name": "Ophthalmology",
+          "urlslug": "therapeutic-focus/digital-health-startups-in-ophthalmology"
+        },
+        {
+          "logo": "defaultImages/startup.png",
+          "id": 15,
+          "name": "Oral Health",
+          "urlslug": "therapeutic-focus/digital-health-startups-in-oral-health"
+        },
+        {
+          "logo": "defaultImages/startup.png",
+          "id": 33,
+          "name": "Orthopaedics",
+          "urlslug": "therapeutic-focus/digital-health-startups-in-orthopaedics"
+        },
+        {
+          "logo": "defaultImages/startup.png",
+          "id": 112,
+          "name": "Paediatrics",
+          "urlslug": "therapeutic-focus/digital-health-startups-in-paediatrics"
+        },
+        {
+          "logo": "defaultImages/startup.png",
+          "id": 52,
+          "name": "Pain",
+          "urlslug": "therapeutic-focus/digital-health-startups-in-pain"
+        },
+        {
+          "logo": "defaultImages/startup.png",
+          "id": 21,
+          "name": "Pediatrics",
+          "urlslug": "therapeutic-focus/digital-health-startups-in-pediatrics"
+        },
+        {
+          "logo": "defaultImages/startup.png",
+          "id": 100,
+          "name": "Plastic Surgery",
+          "urlslug": "therapeutic-focus/digital-health-startups-in-plastic-surgery"
+        },
+        {
+          "logo": "defaultImages/startup.png",
+          "id": 38,
+          "name": "Podiatry",
+          "urlslug": "therapeutic-focus/digital-health-startups-in-podiatry"
+        },
+        {
+          "logo": "defaultImages/startup.png",
+          "id": 24,
+          "name": "Preventive Health",
+          "urlslug": "therapeutic-focus/digital-health-startups-in-preventive-health"
+        },
+        {
+          "logo": "defaultImages/startup.png",
+          "id": 60,
+          "name": "Primary Care",
+          "urlslug": "therapeutic-focus/digital-health-startups-in-primary-care"
+        },
+        {
+          "logo": "defaultImages/startup.png",
+          "id": 35,
+          "name": "Pulmonology",
+          "urlslug": "therapeutic-focus/digital-health-startups-in-pulmonology"
+        },
+        {
+          "logo": "defaultImages/startup.png",
+          "id": 91,
+          "name": "Rare Disease",
+          "urlslug": "therapeutic-focus/digital-health-startups-in-rare-disease"
+        },
+        {
+          "logo": "defaultImages/startup.png",
+          "id": 76,
+          "name": "Rehabilitation",
+          "urlslug": "therapeutic-focus/digital-health-startups-in-rehabilitation"
+        },
+        {
+          "logo": "defaultImages/startup.png",
+          "id": 9,
+          "name": "Respiratory Diseases",
+          "urlslug": "therapeutic-focus/digital-health-startups-in-respiratory-diseases"
+        },
+        {
+          "logo": "defaultImages/startup.png",
+          "id": 94,
+          "name": "Sexual Health",
+          "urlslug": "therapeutic-focus/digital-health-startups-in-sexual-health"
+        },
+        {
+          "logo": "defaultImages/startup.png",
+          "id": 81,
+          "name": "Sleep",
+          "urlslug": "therapeutic-focus/digital-health-startups-in-sleep"
+        },
+        {
+          "logo": "defaultImages/startup.png",
+          "id": 88,
+          "name": "Social Determinants",
+          "urlslug": "therapeutic-focus/digital-health-startups-in-social-determinants"
+        },
+        {
+          "logo": "defaultImages/startup.png",
+          "id": 50,
+          "name": "Stroke",
+          "urlslug": "therapeutic-focus/digital-health-startups-in-stroke"
+        },
+        {
+          "logo": "defaultImages/startup.png",
+          "id": 36,
+          "name": "Substance Use Disorder",
+          "urlslug": "therapeutic-focus/digital-health-startups-in-substance-use-disorder"
+        },
+        {
+          "logo": "defaultImages/startup.png",
+          "id": 34,
+          "name": "Surgery",
+          "urlslug": "therapeutic-focus/digital-health-startups-in-surgery"
+        },
+        {
+          "logo": "defaultImages/startup.png",
+          "id": 111,
+          "name": "Thrombosis",
+          "urlslug": "therapeutic-focus/digital-health-startups-in-thrombosis"
+        },
+        {
+          "logo": "defaultImages/startup.png",
+          "id": 107,
+          "name": "Transplants",
+          "urlslug": "therapeutic-focus/digital-health-startups-in-transplants"
+        },
+        {
+          "logo": "defaultImages/startup.png",
+          "id": 49,
+          "name": "Urology",
+          "urlslug": "therapeutic-focus/digital-health-startups-in-urology"
+        },
+        {
+          "logo": "defaultImages/startup.png",
+          "id": 25,
+          "name": "Veterinary",
+          "urlslug": "therapeutic-focus/digital-health-startups-in-veterinary"
+        },
+        {
+          "logo": "defaultImages/startup.png",
+          "id": 22,
+          "name": "Womens Health",
+          "urlslug": "therapeutic-focus/digital-health-startups-in-womens-health"
+        },
+        {
+          "logo": "defaultImages/startup.png",
+          "id": 39,
+          "name": "Wounds",
+          "urlslug": "therapeutic-focus/digital-health-startups-in-wounds"
+        }
+      ],
+      "display_name": "Therapeutic Focus",
+      "include_criteria": {
+        "criteria": "therapeutic_criteria",
+        "value": "Include"
+      }
+    }
+  }
+}

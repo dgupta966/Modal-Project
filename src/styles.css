@@ -1,0 +1,11 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+/* .select{
+  margin-top: 100px;
+} */
+.select {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
